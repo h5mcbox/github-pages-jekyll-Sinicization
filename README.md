@@ -31,7 +31,7 @@ markdown是一种轻量且易于使用的语法，用于设计您的写作风格
 ### Jekyll 主题
 
 您的站点将使用您在[仓库设置]中选择的Jekyll主题的布局和样式。
-(https://github.com/h5mcbox/h5mcbox.github.io/settings). 此主题的名称保存在jekyll（ `_config.yml`）配置文件中。
+(你的域名). 此主题的名称保存在jekyll（ `_config.yml`）配置文件中。
 
 ### 支持与联系
 
